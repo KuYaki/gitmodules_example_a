@@ -1,4 +1,4 @@
-# gitmodules_example_b
+# gitmodules_example_a
 This is the first example for the
 <a href=https://github.com/KuYaki/gitmodules>gitmodules</a> project.
 
