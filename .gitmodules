@@ -1,0 +1,3 @@
+[submodule "gitmodules_example_b"]
+	path = gitmodules_example_b
+	url = https://github.com/KuYaki/gitmodules_example_b.git
